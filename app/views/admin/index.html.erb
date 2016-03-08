@@ -1,0 +1,17 @@
+<h1>All admin users</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Email</th>
+    </tr>
+  </thead>
+
+  <% @admins.each do |user| %>
+    <tr>
+      <td><%= user.email %></td>
+      <td><%= link_to 'Show', user %></td>
+    </tr>
+  <% end %>
+</table>
+

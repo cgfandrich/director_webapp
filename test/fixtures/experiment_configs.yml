@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ack_rate: 1
+  ack_size: 1
+  packet_size: 1
+  packet_rate: 1
+  duration: 1
+  description: MyString
+
+two:
+  ack_rate: 1
+  ack_size: 1
+  packet_size: 1
+  packet_rate: 1
+  duration: 1
+  description: MyString

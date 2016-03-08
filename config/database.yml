@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  database: director_development
+  username: brownjo
+  password: dummy
+  host: localhost
+
+test:
+  adapter: mysql
+  database: director_test
+  username: brownjo
+  password: dummy
+  host: localhost
+
+production:
+  adapter: mysql
+  database: director_production
+  username: brownjo
+  password: dummy
+  host: localhost

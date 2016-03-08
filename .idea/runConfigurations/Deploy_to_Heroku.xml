@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deploy to Heroku" type="heroku-deploy" factoryName="Heroku Deployment" server-name="Heroku">
+    <deployment type="module" name="director_webapp">
+      <settings>
+        <option name="debugPort" value="2999" />
+        <option name="host" value="10.131.20.33" />
+      </settings>
+    </deployment>
+    <method />
+  </configuration>
+</component>
